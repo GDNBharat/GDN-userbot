@@ -36,7 +36,7 @@ MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://VamsixD:VamsixD@vamsi.x7gyy
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002141779241"))
 OWNER_ID = int(getenv("OWNER_ID", "7635867946"))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "DFSchinnaop")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6919199044").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7588442909").split()))
 ALIVE_PIC = getenv("ALIVE_PIC", "https://files.catbox.moe/uufiry.jpg")
 
 
