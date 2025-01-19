@@ -28,7 +28,7 @@ if os.path.exists("Internal"):
    load_dotenv("Internal")
 
 
-API_ID = int(getenv("API_ID", "28814836"))
+API_ID = int(getenv("API_ID", "20798317"))
 API_HASH = getenv("API_HASH", "82a94d416e05ca5cc3bc04da8494d7ca")
 BOT_TOKEN = getenv("BOT_TOKEN", "8090896989:AAHBO5J3r35QOIomrOtHeiorkYDhKYpyD0U")
 STRING_SESSION = getenv("STRING_SESSION", "BQG3rfQAdluoNLg4Cxg7uMmgj4Y_XdTjpbMxcuTgxer1k25_X_hmTrFM2JZUHyLT-7j1PnAldi-1PXT4xIP3Xl_reAspJCjk89fx2xBBmrmKZZ2yzxEBki1nzAx80GvapsUQrXP3aLXbABYsXh9EnDnLOcaGXNUdJpzfa08t5lXTvL3_YR_2-nsvAQhgG54gDu_0mKhsEFBxjkYQUIamgDvP9HtATa8lnaZuFz5z7DmcmH9n4VblACOlJpbNUUFM1030MS7qR18WK8grmf57kNjYmJAIwO05spoGGnPTuB_JvJ776zAho5DuW8CF0K3tNxxY1uCvAEtdioL-TpPCI8lYVLSMBQAAAAHETnMdAA")
