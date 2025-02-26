@@ -31,12 +31,12 @@ if os.path.exists("Internal"):
 API_ID = int(getenv("API_ID", "22196766"))
 API_HASH = getenv("API_HASH", "cbb54d677872237238a6f584c64d6d8c")
 BOT_TOKEN = getenv("BOT_TOKEN", "7433237326:AAElpYAo5OvPxsD6JLT47DoxksBR0Zie7bU")
-STRING_SESSION = getenv("STRING_SESSION", "BQFuKmYACeQeVuGVkL_rfnXhGq1W0MBtJd6bze1YrQG4AL5rLQGaGGRyAlwmdcdfHpzkWKS3VvM1cnpu9QHFNOCxra766EOhWDmH0pYrFsyw29rkZ7H8jGlmqEbpyjEm61iZI3DPkfvXo0aBJlEjPCipOAXJVmo0CZcUh5YBMxoUKd1YBKOmTasKphy22U8G4yUT0HaM_Lauybr-VapKJsoB9tZLn6YWcrpINF79FoJd-nIeEHYHZ26H_O9z64Kls_Fl9ijCo_3OH35Mq7c1HyZSDJKkyWM1rzkLHKkzNGfv87J_pT-a0BpY9U3KJ1vBup7IfyQfaDKxh8EVKxLvOE16jnkNZQAAAAHVOT8ZAA")
+STRING_SESSION = getenv("STRING_SESSION", "BQFSsh4AcAZbhm5OCMAjrVfLWNbvU1iSEjCX6uPdClhSr1hVz-UMyQAbDWZ0Ec4tWeOo-hlQNKOUKrB-ZNwsHtCya0RsHJ9BJT30sLboVZpZ4nHjrt2mUYBX4xcBag3yIMLcPcwS2TjD1aob3YMoIDOH6Evd6b7ZsCIgfekmvaT5OYomkW20l-Zs27kPlB0PCeLzvGzCm1HIN-3O_J_ta6pg0Pt1RAje06KpgPiHvm9ypc_WxAEetpkdsN5yHk_mDQzi2fhlaB1a6j81g2-syAknPTaQmCrMsSJfaH65NG3To_oGaUUBLC4QD52rjkNIHjxUXyIyNErMngyVqjoFFEAVLiWirAAAAAHiX3eMAA")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://VamsixD:VamsixD@vamsi.x7gyybv.mongodb.net/?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", 0))
-OWNER_ID = int(getenv("OWNER_ID", "7872266009"))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Bct_chinna")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7588442909").split()))
+OWNER_ID = int(getenv("OWNER_ID", "8092874636"))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "iamchinna")
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8092874636").split()))
 ALIVE_PIC = getenv("ALIVE_PIC", "https://graph.org/file/9426105f9b5c442283980-555887199617d7eaf8.jpg")
 
 
