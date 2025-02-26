@@ -30,7 +30,7 @@ if os.path.exists("Internal"):
 
 API_ID = int(getenv("API_ID", "22196766"))
 API_HASH = getenv("API_HASH", "cbb54d677872237238a6f584c64d6d8c")
-BOT_TOKEN = getenv("BOT_TOKEN", "7547743421:AAEVIg-FEVz9_ShFa_m4JGlw1WOmq-3mEgU")
+BOT_TOKEN = getenv("BOT_TOKEN", "7433237326:AAElpYAo5OvPxsD6JLT47DoxksBR0Zie7bU")
 STRING_SESSION = getenv("STRING_SESSION", "BQFuKmYACeQeVuGVkL_rfnXhGq1W0MBtJd6bze1YrQG4AL5rLQGaGGRyAlwmdcdfHpzkWKS3VvM1cnpu9QHFNOCxra766EOhWDmH0pYrFsyw29rkZ7H8jGlmqEbpyjEm61iZI3DPkfvXo0aBJlEjPCipOAXJVmo0CZcUh5YBMxoUKd1YBKOmTasKphy22U8G4yUT0HaM_Lauybr-VapKJsoB9tZLn6YWcrpINF79FoJd-nIeEHYHZ26H_O9z64Kls_Fl9ijCo_3OH35Mq7c1HyZSDJKkyWM1rzkLHKkzNGfv87J_pT-a0BpY9U3KJ1vBup7IfyQfaDKxh8EVKxLvOE16jnkNZQAAAAHVOT8ZAA")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://VamsixD:VamsixD@vamsi.x7gyybv.mongodb.net/?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", 0))
