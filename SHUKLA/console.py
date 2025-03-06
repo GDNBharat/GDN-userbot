@@ -31,7 +31,7 @@ if os.path.exists("Internal"):
 API_ID = int(getenv("API_ID", "22196766"))
 API_HASH = getenv("API_HASH", "cbb54d677872237238a6f584c64d6d8c")
 BOT_TOKEN = getenv("BOT_TOKEN", "7433237326:AAElpYAo5OvPxsD6JLT47DoxksBR0Zie7bU")
-STRING_SESSION = getenv("STRING_SESSION", "BQFSsh4AcAZbhm5OCMAjrVfLWNbvU1iSEjCX6uPdClhSr1hVz-UMyQAbDWZ0Ec4tWeOo-hlQNKOUKrB-ZNwsHtCya0RsHJ9BJT30sLboVZpZ4nHjrt2mUYBX4xcBag3yIMLcPcwS2TjD1aob3YMoIDOH6Evd6b7ZsCIgfekmvaT5OYomkW20l-Zs27kPlB0PCeLzvGzCm1HIN-3O_J_ta6pg0Pt1RAje06KpgPiHvm9ypc_WxAEetpkdsN5yHk_mDQzi2fhlaB1a6j81g2-syAknPTaQmCrMsSJfaH65NG3To_oGaUUBLC4QD52rjkNIHjxUXyIyNErMngyVqjoFFEAVLiWirAAAAAHiX3eMAA")
+STRING_SESSION = getenv("STRING_SESSION", "BQFSsh4AmqGs970sH3jnfmKN-_Gv_j-hk80oHC0aXlPYc3m7z3qjl2f3LQ_Wx3O-AN1-3zaInG_Gjr6WXrCrFMRWH2ozYoejwjFNGicPxfJ-X9EU3LjHZORPhJsfRqVzbn1pYcTI3I-ejk9lgIZU4GLGvbRpIa3VCAGtYx1g26SvAH67szDAMLpkx9ToFkmZSuCRLtdn_qAwhceRmPu1s6lvTUYlePnwdPqf50RdQNA9Ajn-S6vgGzlKLkNzEHdlKFod7A93CbDghUziSVf6J2PNZctdX4fItGzeM3ELpne1SqpEQ5d9PoghVK-l28sXpWBFuPuL66R6iHpNn5efpdzPIfhJwwAAAAHiX3eMAA")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://VamsixD:VamsixD@vamsi.x7gyybv.mongodb.net/?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", 0))
 OWNER_ID = int(getenv("OWNER_ID", "8092874636"))
