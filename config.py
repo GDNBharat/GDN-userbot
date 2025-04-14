@@ -28,14 +28,14 @@ if os.path.exists("Internal"):
    load_dotenv("Internal")
 
 
-API_ID = int(getenv("API_ID", "22196766"))
-API_HASH = getenv("API_HASH", "cbb54d677872237238a6f584c64d6d8c")
-BOT_TOKEN = getenv("BOT_TOKEN", "7433237326:AAGUGH3Krk2mO9MT-lHY_lg0x4aEh2-Q5Ts")
-STRING_SESSION = getenv("STRING_SESSION", "BQFSsh4AhwVdYn_tffraRpaX-s5sdnwy5flY9DJFo7PaY99jAB2ekF6xnQK-pDFEtsme5BUy1KlEeJA4hNVOhL2wAR3r_35Q6ddppN3duwhV7Iz9I1lw6cKJKTJ1jZFFFtI8Q0hrqWRxpa_auFAgtol1XK0wyvYEWZr4uI0-j0Gq3ks9uSgpeK3DXu2biJGamIMUCgZ5NqDBfxl7cN1Z_TKb-7p68l1cqcqNSw3xV587yTUS0x03zTZNG4VXxQmFumbq-prNwP-9tfv_LYY-YZwJeD0TpRdpq2LuWZMsZouQbVjQgoMG_8RNc9600VFOd8DnhagiqtJZ4T3gbb8jgwozFs1AsQAAAAHiX3eMAA")
+API_ID = int(getenv("API_ID", "28362850"))
+API_HASH = getenv("API_HASH", "34f9cb93364db16fc45d003e4c81d97a")
+BOT_TOKEN = getenv("BOT_TOKEN", "7500951257:AAEOx60Ml1_t06LHIInuowBQHWwARltT5fw")
+STRING_SESSION = getenv("STRING_SESSION", "BQGwyGIAnLlJuYMTnwZhmuEu6Q4SIeQ9yzhiVYRjoEfLBBq6S17SYj-eWx2skrNKIl-R4OoYAuMl026bmGQHJHcw5mVqVSEy_6zOzz5b4vwPlwUEMiYvgr9sEJSKkJABYKkKuSOfgqDAhJxwY3NE9HLVQ1a4qXycSprVULYxuKOL7JtXt8h60XfHdcicsSIIykRIQgiUkCfI3Kz4R4hfnxcMN6vH8EFNYnyPRrdbV8SBVFNFvC2_AD6gUl7r4OtgHrHR6vjAv6UhTUmvbLuMdz6XB37HvXijzaoolbdDH1M9b8VPvP7rKl4s34lykFn0byVvnv2-mAe4YfJrqLUSs48nSPv8gAAAAAHoAeY6AA")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://VamsixD:VamsixD@vamsi.x7gyybv.mongodb.net/?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", 0))
-OWNER_ID = int(getenv("OWNER_ID", "8092874636"))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "iamchinna")
+OWNER_ID = int(getenv("OWNER_ID", "8187405882"))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "I_love_u143")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8092874636").split()))
 ALIVE_PIC = getenv("ALIVE_PIC", "https://graph.org/file/9426105f9b5c442283980-555887199617d7eaf8.jpg")
 
