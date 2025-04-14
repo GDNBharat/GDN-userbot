@@ -8,3 +8,6 @@ psutil
 py-cpuinfo 
 telegraph
 pymongo
+telethon
+cryptg
+heroku3
